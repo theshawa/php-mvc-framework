@@ -75,11 +75,14 @@ $currentPath = Application::$app->request->getPath();
     {{content}}
 </main>
 <footer class="d-flex flex-wrap justify-content-between align-items-center py-3 mt-5 border-top container-fluid">
-    <p class="col-md-4 mb-0 text-muted">© 2024</p>
+    <a class=""
+       href="https://github.com/theshawa/php-mvc-framework.git"
+       target="_blank">View Project on
+        Github</a>
     <div class="nav col-md-4 justify-content-end">
         <p class="mb-0">Developed by <a href="https://theshawa-dev.web.app" title="Visit Theshawa Dasun"
                                         target="_blank">Theshawa
-                Dasun</a></p>
+                Dasun</a> @ 2024</p>
     </div>
 </footer>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"

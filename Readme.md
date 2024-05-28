@@ -17,7 +17,7 @@ Check **[here](./docs/index.md)** for the documentation.
 
 ### 2. Middleware Support
 
-- Apply middleware to routes for executing code before/after route handlers.
+- Apply middleware to routes for executing code before route handlers.
 
 ### 3. Database Interaction
 

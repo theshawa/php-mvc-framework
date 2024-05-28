@@ -1,5 +1,6 @@
-<h2>A Model-View-Controller (MVC) framework developed using PHP.</h2>
-<a class="btn btn-primary mt-2" href="" target="_blank">View Project on Github</a>
+<h2>A Model-View-Controller (MVC) framework<br/> developed using PHP.</h2>
+<a class="btn btn-primary mt-3" href="https://github.com/theshawa/php-mvc-framework.git" target="_blank">View Project on
+    Github</a>
 
 <h3 class="mt-5">Features</h3>
 
@@ -31,7 +32,7 @@
         <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
              data-bs-parent="#accordionFeatures">
             <div class="accordion-body">
-                <p>Apply middleware to routes for executing code before/after route handlers.</p>
+                <p>Apply middleware to routes for executing code before route handlers.</p>
             </div>
         </div>
     </div>

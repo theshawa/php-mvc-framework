@@ -26,7 +26,12 @@ $pageTitle = $pageTitle ?? "";
     </div>
 </main>
 <footer class="container-lg pb-4">
-    <p class="mb-0">Developed by <a href="https://theshawa-dev.web.app" title="Visit Theshawa Dasun" target="_blank">Theshawa
+    <a class=""
+       href="https://github.com/theshawa/php-mvc-framework.git"
+       target="_blank">View Project on
+        Github</a>
+    <p class="mb-0 mt-1">Developed by <a href="https://theshawa-dev.web.app" title="Visit Theshawa Dasun"
+                                         target="_blank">Theshawa
             Dasun</a></p>
 </footer>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
