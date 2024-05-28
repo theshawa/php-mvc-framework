@@ -61,3 +61,7 @@ features.
 
 By following these configuration steps, you can customize the framework to suit your project's requirements. Make sure
 to review and adjust configurations according to your environment and application needs.
+
+---
+
+###### Next: [Directory Structure](./directory-structure.md)

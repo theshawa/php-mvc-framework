@@ -20,4 +20,6 @@ Navigate to the project directory and run:
 composer install
 ```
 
+---
+
 ###### Next: [Configuration](./configuration.md)

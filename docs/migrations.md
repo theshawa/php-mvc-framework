@@ -132,5 +132,10 @@ In this example:
    maintainability.
 
 ###### _**Note:** When creating migration files, ensure that they adhere to the file naming conventions mentioned above.
+
 Failure to follow these conventions may result in the migration handler failing to recognize or execute the migrations
 correctly._
+
+---
+
+###### Next: [Examples](./examples.md)
