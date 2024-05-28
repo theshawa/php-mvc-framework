@@ -1,0 +1,33 @@
+{
+  "version": "0.0.1",
+  "name": "theshawa-dev/mvc-framework",
+  "description": "A project by Theshawa Dasun. Visit https://theshawa-dev.web.app to learn more.",
+  "autoload": {
+    "psr-4": {
+      "app\\": "./",
+      "core\\": "core",
+      "src\\": "src",
+      "migrations\\": "migrations"
+    }
+  },
+  "authors": [
+    {
+      "name": "Theshawa Dasun",
+      "email": "mrclocktd@gmail.com",
+      "homepage": "https://theshawa-dev.web.app",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "ext-json": "*",
+    "ext-pdo": "*",
+    "vlucas/phpdotenv": "^5.6"
+  },
+  "scripts": {
+  },
+  "config": {
+    "platform": {
+      "php": "8.3"
+    }
+  }
+}
