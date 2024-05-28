@@ -6,7 +6,7 @@ A Model-View-Controller (MVC) framework developed using PHP.
 
 ## Documentation
 
-Check [Here](./docs/index.md) for the documentation.
+Check **[here](./docs/index.md)** for the documentation.
 
 ## Key Features
 
