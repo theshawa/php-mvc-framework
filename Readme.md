@@ -76,7 +76,7 @@ Check **[here](./docs/index.md)** for the documentation.
 ## Sample Application at `/src`
 
 - A sample application is already implemented using this framework.
-- Check the guide [here](./sample-application.md).
+- Check the guide [here](./docs/sample-application.md).
 
 ## Bug Report
 
